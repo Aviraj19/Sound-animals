@@ -1,0 +1,30 @@
+body{
+    font-family: 'Shippori Antique B1', sans-serif;
+    background-color: cyan;
+}
+.header_div{
+    background:white;
+    color:red;
+}
+.header_div p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing:2px; ;
+}
+.main_div button{
+    width:130px;
+    letter-spacing: 3px;
+    font-weight:bolder;
+    margin-top:30px;
+}
+#footer{
+    position:fixed;
+    bottom:0;
+    color: blue;
+    width:100%;
+    font-size:20px;
+    background-color: orchid;
+    text-align:center;
+    text-shadow:5px 5px 5px white;
+}
